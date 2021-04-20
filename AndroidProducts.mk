@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_1916.mk
+    $(LOCAL_DIR)/arrow_1916.mk
